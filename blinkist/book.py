@@ -53,7 +53,7 @@ class Book:
         """
         chapters = [
             Chapter.from_id(self, chapter['id'])
-            for chapter in track(self.chapter_list, description="Fetching chapters…")
+            for chapter in track(self.chapter_list, description="Fetching chapters for book " + self.slug + "…")
         ]
         return chapters
 

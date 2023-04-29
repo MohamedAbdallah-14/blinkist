@@ -1,0 +1,74 @@
+{
+    "categories": [
+        {
+            "id": "50647cf9e4b08bcecce09447",
+            "title": "Entrepreneurship",
+            "dir_path": "/Users/abdullah/Documents/Blinkist/Categories/Entrepreneurship",
+            "book_names": [
+                "Bold",
+                "Shoe Dog",
+                "Be Fearless",
+                "Steve Jobs",
+                "Diffusion of Innovations",
+                "Resilient"
+            ]
+        },
+        {
+            "id": "507445d4e4b0c9817ab36591",
+            "title": "Politics",
+            "dir_path": "/Users/abdullah/Documents/Blinkist/Categories/Politics",
+            "book_names": [
+                "The Boom",
+                "Hard Choices",
+                "Prisoners of Geography",
+                "Benjamin Franklin",
+                "The Lessons of History",
+                "What Happened",
+                "The Bully Pulpit",
+                "Fear",
+                "Leadership"
+            ]
+        },
+        {
+            "id": "50744610e4b0c9817ab36595",
+            "title": "Marketing & Sales",
+            "dir_path": "/Users/abdullah/Documents/Blinkist/Categories/Marketing & Sales",
+            "book_names": [
+                "Confessions of an Advertising Man",
+                "Why We Buy",
+                "Design To Grow",
+                "Unleashing the Ideavirus",
+                "Kotler on Marketing",
+                "The Sales Advantage"
+            ]
+        },
+        {
+            "id": "507445dee4b0c9817ab36592",
+            "title": "Science",
+            "dir_path": "/Users/abdullah/Documents/Blinkist/Categories/Science",
+            "book_names": [
+                "The Greatest Show on Earth",
+                "The Emperor of All Maladies",
+                "Einstein",
+                "Habits of a Happy Brain",
+                "The Mathematics of Love",
+                "The Secret Life of Sleep",
+                "Tesla",
+                "Follow Your Gut",
+                "Sex, Lies, and Handwriting",
+                "Flow",
+                "The Tangled Tree",
+                "A Beautiful Mind",
+                "Meltdown",
+                "Shoot for the Moon",
+                "Happy Accidents",
+                "Clean",
+                "Lifespan ",
+                "The Gene",
+                "The Human Instinct",
+                "The End of Everything",
+                "The Future is Faster Than You Think"
+            ]
+        }
+    ]
+}

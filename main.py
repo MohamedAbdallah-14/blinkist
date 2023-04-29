@@ -108,7 +108,7 @@ def download_book(
 # ▒▒ processed
 @click.option('--markdown/--no-markdown', help="Save content as Markdown", default=True)
 def main(**kwargs):
-    languages_to_download = [kwargs['language']] if kwargs['language'] else LANGUAGES  # default to all languages
+    languages_to_download = [kwargs['language']] if kwargs['language'] else 'en'  # default to all English
     books_to_download = set()
 
     if kwargs['book_slug']:
